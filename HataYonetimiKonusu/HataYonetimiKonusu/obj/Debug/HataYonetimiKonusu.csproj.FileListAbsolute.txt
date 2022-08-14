@@ -1,0 +1,7 @@
+C:\Users\Asım Mutlu\Desktop\PatikaDev\HataYonetimiKonusu\HataYonetimiKonusu\bin\Debug\HataYonetimiKonusu.exe.config
+C:\Users\Asım Mutlu\Desktop\PatikaDev\HataYonetimiKonusu\HataYonetimiKonusu\bin\Debug\HataYonetimiKonusu.exe
+C:\Users\Asım Mutlu\Desktop\PatikaDev\HataYonetimiKonusu\HataYonetimiKonusu\bin\Debug\HataYonetimiKonusu.pdb
+C:\Users\Asım Mutlu\Desktop\PatikaDev\HataYonetimiKonusu\HataYonetimiKonusu\obj\Debug\HataYonetimiKonusu.csproj.AssemblyReference.cache
+C:\Users\Asım Mutlu\Desktop\PatikaDev\HataYonetimiKonusu\HataYonetimiKonusu\obj\Debug\HataYonetimiKonusu.csproj.CoreCompileInputs.cache
+C:\Users\Asım Mutlu\Desktop\PatikaDev\HataYonetimiKonusu\HataYonetimiKonusu\obj\Debug\HataYonetimiKonusu.exe
+C:\Users\Asım Mutlu\Desktop\PatikaDev\HataYonetimiKonusu\HataYonetimiKonusu\obj\Debug\HataYonetimiKonusu.pdb
